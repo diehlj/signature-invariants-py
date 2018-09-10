@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.pytest_cache/
+*.swp
+build/
+dist/
+linear_combination_py.egg-info/
